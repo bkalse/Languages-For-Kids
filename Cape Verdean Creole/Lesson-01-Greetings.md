@@ -1,6 +1,18 @@
 # Lesson 1 – Greetings
 
-## Vocabulary
+## Learning Goal
+
+Today you will learn how to:
+
+- Say hello
+- Greet people at different times of the day
+- Ask "How are you?"
+- Say thank you
+- Say goodbye
+
+---
+
+# Vocabulary
 
 | English | Creole | Pronunciation |
 |----------|---------|---------------|
@@ -10,32 +22,64 @@
 | Good night | Bon noti | bon no-tee |
 | Goodbye | Tchau | chow |
 | Please | Pur favor | poor fa-vor |
-| Thank you | Obrigadu (male) / Obrigada (female) | oh-bree-ga-doo |
+| Thank you (male speaker) | Obrigadu | oh-bree-GAH-doo |
+| Thank you (female speaker) | Obrigada | oh-bree-GAH-dah |
 
-## Useful Sentences
+---
 
-- Oi!
-- Bon dia!
-- Modi ki bu sta?
-- N sta dretu.
-- Obrigadu!
-- Ti dipôs.
-- Tchau!
+# Useful Sentences
 
-## Conversation
+## 1. Hello!
 
-Ana: Oi!
+**Creole:** Oi!
 
-Pedro: Oi!
+**Pronunciation:** oy
 
-Ana: Modi ki bu sta?
+**Meaning:** Hello!
 
-Pedro: N sta dretu. Obrigadu!
+---
 
-Ana: Tchau!
+## 2. Good morning!
 
-Pedro: Tchau!
+**Creole:** Bon dia!
 
-## Practice
+**Pronunciation:** bon dee-ah
 
-Repeat each sentence three times.
+**Meaning:** Good morning!
+
+---
+
+## 3. How are you?
+
+**Creole:** Modi ki bu sta?
+
+**Pronunciation:** MOH-dee kee boo stah
+
+**Meaning:** How are you?
+
+### Word Breakdown
+
+- **Modi** = How
+- **ki** = (question word connector)
+- **bu** = you
+- **sta** = are
+
+---
+
+## 4. I am fine.
+
+**Creole:** N sta dretu.
+
+**Pronunciation:** n stah DREH-too
+
+**Meaning:** I am fine.
+
+### Word Breakdown
+
+- **N** = I
+- **sta** = am
+- **dretu** = fine / okay
+
+---
+
+## 5.
