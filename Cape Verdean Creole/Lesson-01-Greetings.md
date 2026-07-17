@@ -82,4 +82,131 @@ Today you will learn how to:
 
 ---
 
-## 5.
+## 5. Thank you.
+
+**Creole:** Obrigadu.
+
+**Pronunciation:** oh-bree-GAH-doo
+
+**Meaning:** Thank you.
+
+---
+
+## 6. See you later.
+
+**Creole:** Ti dipôs.
+
+**Pronunciation:** tee dee-POHS
+
+**Meaning:** See you later.
+
+---
+
+## 7. Goodbye!
+
+**Creole:** Tchau!
+
+**Pronunciation:** chow
+
+**Meaning:** Goodbye!
+
+---
+
+# Conversation
+
+## Ana
+
+**Creole:** Oi!
+
+**Pronunciation:** oy
+
+**Meaning:** Hello!
+
+---
+
+## Pedro
+
+**Creole:** Oi!
+
+**Pronunciation:** oy
+
+**Meaning:** Hello!
+
+---
+
+## Ana
+
+**Creole:** Modi ki bu sta?
+
+**Pronunciation:** MOH-dee kee boo stah
+
+**Meaning:** How are you?
+
+---
+
+## Pedro
+
+**Creole:** N sta dretu. Obrigadu!
+
+**Pronunciation:** n stah DREH-too. oh-bree-GAH-doo
+
+**Meaning:** I am fine. Thank you!
+
+---
+
+## Ana
+
+**Creole:** Tchau!
+
+**Pronunciation:** chow
+
+**Meaning:** Goodbye!
+
+---
+
+## Pedro
+
+**Creole:** Tchau!
+
+**Pronunciation:** chow
+
+**Meaning:** Goodbye!
+
+---
+
+# Practice
+
+Say each sentence aloud three times.
+
+- Oi!
+- Bon dia!
+- Modi ki bu sta?
+- N sta dretu.
+- Obrigadu.
+- Ti dipôs.
+- Tchau!
+
+---
+
+# Challenge
+
+Can you say these without looking?
+
+- Hello
+- Good morning
+- How are you?
+- I am fine.
+- Thank you.
+- Goodbye.
+
+---
+
+# Summary
+
+Today you learned:
+
+- 8 new words
+- 7 useful sentences
+- Your first conversation in Cape Verdean Creole
+
+🎉 Great job! You're now ready for Lesson 2.
