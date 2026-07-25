@@ -1,4 +1,3 @@
-```markdown
 # Lesson 6 – Fruits and Vegetables 🍎🥕🥭
 
 ## Learning Goal
@@ -360,4 +359,3 @@ Today you learned:
 - A fun conversation about food
 
 🎉 Great job! Next you'll learn about drinks, meals, and your favourite foods!
-```
